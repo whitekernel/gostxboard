@@ -1,4 +1,4 @@
 # Gostxboard
 A free opensource and beta anti-keylogging solution for Windows. 
 
-# THE CODE IS AVAILABLE ON BITBUCKET AT https://bitbucket.org/WhiteKernel/gostxboard
+## THE PROJECT HAS BEEN PERMANENTLY MOVED TO BITBUCKET AT https://bitbucket.org/WhiteKernel/gostxboard
